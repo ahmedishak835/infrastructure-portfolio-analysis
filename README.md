@@ -17,6 +17,7 @@ This project analyzes a mock infrastructure portfolio to identify key drivers of
 ## 🛠️ Tools & Methodology
 * [cite_start]**Data Retrieval & Aggregation:** SQL (used for all core sector- and region-level aggregation)[cite: 1, 13, 14].
 * [cite_start]**Visualization & Reporting:** Excel, PowerPoint, Power BI (used for generating insights and the final deliverable)[cite: 1, 42].
+* Note on Data: The dataset used for this analysis is a simulated portfolio dataset. It has been excluded from the repository for privacy and confidentiality reasons.
 
 ## 🔗 Project Files
 * **Full Presentation:** [`SQL MM project.pptx`](SQL%20MM%20project.pptx)
